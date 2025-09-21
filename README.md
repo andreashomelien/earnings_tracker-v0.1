@@ -46,4 +46,4 @@ bash/powershell: npm start
 - [Chart.js](https://www.chartjs.org/) - Charts and graphs
 
 ## COMMING SOON
-- rest of code is not ready to be published yet
+- KOTLIN app with SQL database
