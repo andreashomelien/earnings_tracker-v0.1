@@ -22,15 +22,13 @@ A modern web application for tracking work shifts and calculating earnings. Buil
 - npm
 
 ### How to use
-1. Clone the repository
-
-2. Install dependencies:
+1. Install dependencies:
 bash/powershell: npm install
 
-3. Start the development server:
+2. Start the development server:
 bash/powershell: npm start
 
-4. Open http://localhost:3000 to view the app in your browser.
+3. Open http://localhost:3000 to view the app in your browser.
 
 ## Usage
 
