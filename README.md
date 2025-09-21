@@ -1,7 +1,8 @@
 # earnings_tracker-v0.1
-Earnings Tracker 
+Earnings Tracker APP - rest of code is not ready to be published yet
 
 A modern web application for tracking work shifts and calculating earnings. Built with React, TypeScript, and Material-UI.
+
 EXAMPLE PICTURE BELOW :D
 
 ![Earnings Tracker](https://media.discordapp.net/attachments/1330362258571657269/1384853859331084379/Jobbtid_-_norsk_1.png?ex=68d12fa9&is=68cfde29&hm=899d8780e75545b7fca4052a2a69c1a4d517e9265373e59b00677c8ca8a98d5e&=&format=webp&quality=lossless)
