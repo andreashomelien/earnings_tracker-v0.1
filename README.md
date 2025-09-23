@@ -47,3 +47,6 @@ bash/powershell: npm start
 
 ## COMMING SOON
 - KOTLIN app with SQL database
+
+## License
+All rights reserved - andreashomelien
